@@ -1,0 +1,6 @@
+classes= 1
+train  = tdata/train.txt
+valid  = tdata/valid.txt
+names = data/duckie-multi.names
+backup = duckie_backup
+
