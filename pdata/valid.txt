@@ -1,0 +1,3 @@
+pdata/validset/frame0153.jpg
+pdata/validset/frame0220.jpg
+pdata/validset/frame0230.jpg
