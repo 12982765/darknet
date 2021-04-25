@@ -1,6 +1,0 @@
-classes= 2
-train  = pdata/train.txt
-valid  = pdata/valid.txt
-names = data/duckie-multi.names
-backup = duckie_backup
-
