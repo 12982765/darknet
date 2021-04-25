@@ -1,0 +1,4 @@
+p5data/validset/frame0049.jpg
+p5data/validset/frame0139.jpg
+p5data/validset/frame0209.jpg
+p5data/validset/frame0445.jpg
