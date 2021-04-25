@@ -1,0 +1,6 @@
+classes= 2
+train  = p5data/train.txt
+valid  = p5data/valid.txt
+names = data/duckie-multi.names
+backup = duckie_backup
+
